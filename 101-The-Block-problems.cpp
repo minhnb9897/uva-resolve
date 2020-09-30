@@ -1,3 +1,5 @@
+// created by author Minh Nguyen Binh at 20200930 13:04.
+// 
 #include <stdio.h>
 #include <string.h>
 
